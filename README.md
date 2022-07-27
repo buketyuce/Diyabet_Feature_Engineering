@@ -4,7 +4,7 @@
 
 Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirmemiz gerekmekte.
 
-# Veri Seti Hikayesi
+# Veri Seti Hikayesi 
 
 Veri seti ABD'deki Ulusal Diyabet-Sindirim-Böbrek Hastalıkları Enstitüleri'nde tutulan büyük veri setinin parçasıdır.
 
